@@ -1,0 +1,78 @@
+/* Set the background color of the body element */
+body {
+    background-color: lightgray;
+  }
+  
+/* Style the h1 element with a red color and center it on the page */
+h1 {
+color: rgb(0, 0, 0);
+text-align: center;
+}
+
+a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+/* Style the table with a blue border and make the text inside it black */
+table {
+margin: 0 auto;
+width: 80%;
+border: 1px solid black;
+color: black;
+}
+
+/* Style the th elements with a green background color and white text */
+th {
+background-color: rgb(0, 0, 0);
+color: white;
+}
+
+/* Style the td elements with a gray background color */
+td {
+background-color: rgba(255, 255, 255, 0);
+white-space: nowrap;
+
+}
+
+/* Style the form input elements with a yellow background and black text */
+form input {
+
+color: black;
+}
+
+/* Style the submit button with a purple background and white text */
+form input[type="submit"] {
+background-color: rgb(0, 0, 0);
+color: white;
+}
+div {
+    margin: 0 auto;
+    border: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000000;
+    background-color: #FFFFFF;
+}
+div#content {
+    width: 50%;
+    height: 100%;
+    margin: 0 auto;
+    padding: 0;
+    border: 0;
+    background-color: #FFFFFF;
+}
+
+
+
+
+
+.content {
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+  }
+
